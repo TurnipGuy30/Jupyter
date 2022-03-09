@@ -1,4 +1,4 @@
-Name,dex,type_1,type_2,total,hp,atk,def,spa,spd,spe,gen,legendary
+name,dex,type_1,type_2,total,hp,atk,def,spa,spd,spe,gen,legendary
 Bulbasaur,1,Grass,Poison,318,45,49,49,65,65,45,1,False
 Ivysaur,2,Grass,Poison,405,60,62,63,80,80,60,1,False
 Venusaur,3,Grass,Poison,525,80,82,83,100,100,80,1,False
