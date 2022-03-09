@@ -3,4 +3,4 @@
 
 ---
 
-You can find my assignment in [the `Assignment` folder]().
+You can find my assignment in [the `Assignment` folder](https://github.com/TurnipGuy30/Jupyter/tree/main/Assignment).
