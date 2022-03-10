@@ -3,6 +3,12 @@
 
 ---
 
+<p>
+  <a href="https://github.com/TurnipGuy30/Lhn"><img src="https://github.com/TurnipGuy30/Jupyter/raw/master/github-metrics.svg"></a> <!--Metrics-->
+</p>
+
+---
+
 You can find my assignment in [the `Assignment` folder](https://github.com/TurnipGuy30/Jupyter/tree/main/Assignment).
 
 ---
