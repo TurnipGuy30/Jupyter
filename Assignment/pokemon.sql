@@ -435,9 +435,9 @@ INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (381,'Latios','Dragon','Psychic',600,80,90,80,130,110,110,3,'True');
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (381,'Mega Latios','Dragon','Psychic',700,80,130,100,160,120,110,3,'True');
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (382,'Kyogre','Water',NULL,670,100,100,90,150,140,90,3,'True');
-INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (382,'KyogrePrimal Kyogre','Water',NULL,770,100,150,90,180,160,90,3,'True');
+INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (382,'Kyogre','Water',NULL,770,100,150,90,180,160,90,3,'True');
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (383,'Groudon','Ground',NULL,670,100,150,140,100,90,90,3,'True');
-INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (383,'GroudonPrimal Groudon','Ground','Fire',770,100,180,160,150,90,90,3,'True');
+INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (383,'Groudon','Ground','Fire',770,100,180,160,150,90,90,3,'True');
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (384,'Rayquaza','Dragon','Flying',680,105,150,90,150,90,95,3,'True');
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (384,'Mega Rayquaza','Dragon','Flying',780,105,180,100,180,100,115,3,'True');
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (385,'Jirachi','Steel','Psychic',600,100,100,100,100,100,100,3,'True');

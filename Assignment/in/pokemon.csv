@@ -421,9 +421,9 @@ Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation
 381,Latios,Dragon,Psychic,600,80,90,80,130,110,110,3,True
 381,Mega Latios,Dragon,Psychic,700,80,130,100,160,120,110,3,True
 382,Kyogre,Water,,670,100,100,90,150,140,90,3,True
-382,KyogrePrimal Kyogre,Water,,770,100,150,90,180,160,90,3,True
+382,Primal Kyogre,Water,,770,100,150,90,180,160,90,3,True
 383,Groudon,Ground,,670,100,150,140,100,90,90,3,True
-383,GroudonPrimal Groudon,Ground,Fire,770,100,180,160,150,90,90,3,True
+383,Primal Groudon,Ground,Fire,770,100,180,160,150,90,90,3,True
 384,Rayquaza,Dragon,Flying,680,105,150,90,150,90,95,3,True
 384,Mega Rayquaza,Dragon,Flying,780,105,180,100,180,100,115,3,True
 385,Jirachi,Steel,Psychic,600,100,100,100,100,100,100,3,True
