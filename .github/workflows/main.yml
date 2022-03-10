@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2.4.0
-      - name: Build with py2exe
+      - name: Install Requirements
         run: |
           python -m pip install -r requirements.txt
   publish:
