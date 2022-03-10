@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2.4.0
-      - name: Install Requirements
+      - name: Test Requirements
         run: |
           python -m pip install -r requirements.txt
   publish:
@@ -21,3 +21,12 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+  github-metrics:
+    runs-on: ["ubuntu-latest"]
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.TOKEN }}
+          user: TurnipGuy30
+          repo: Jupyter
+          template: repository
