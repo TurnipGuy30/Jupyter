@@ -4,7 +4,7 @@
 ---
 
 <p>
-  <a href="https://github.com/TurnipGuy30/Lhn"><img src="https://github.com/TurnipGuy30/Jupyter/raw/master/github-metrics.svg"></a> <!--Metrics-->
+  <a href="https://github.com/TurnipGuy30/Jupyter"><img src="https://github.com/TurnipGuy30/Jupyter/raw/master/github-metrics.svg"></a> <!--Metrics-->
 </p>
 
 ---
