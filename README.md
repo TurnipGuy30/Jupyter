@@ -1,10 +1,10 @@
-<h1 align="center">Jupyter</h1>
+<h1 align="center"><code>Jupyter</code></h1>
 <p align="center">Class Notes - Learning to use Jupyter Notebook</p>
 
 ---
 
 <p>
-  <a href="https://github.com/TurnipGuy30/Jupyter"><img src="https://github.com/TurnipGuy30/Jupyter/raw/master/github-metrics.svg"></a> <!--Metrics-->
+  <a href="https://github.com/TurnipGuy30/Jupyter"><img src="https://raw.githubusercontent.com/TurnipGuy30/Jupyter/main/github-metrics.svg"></a> <!--Metrics-->
 </p>
 
 ---
