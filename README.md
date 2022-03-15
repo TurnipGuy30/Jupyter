@@ -1,11 +1,5 @@
-<h1 align="center"><code>Jupyter</code></h1>
+<h1 align="center"><a href="https://github.com/TurnipGuy30/Jupyter"><img src="https://raw.githubusercontent.com/TurnipGuy30/Jupyter/main/github-metrics.svg"></a></h1> <!--Metrics-->
 <p align="center">Class Notes - Learning to use Jupyter Notebook</p>
-
----
-
-<p>
-  <a href="https://github.com/TurnipGuy30/Jupyter"><img src="https://raw.githubusercontent.com/TurnipGuy30/Jupyter/main/github-metrics.svg"></a> <!--Metrics-->
-</p>
 
 ---
 
