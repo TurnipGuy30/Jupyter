@@ -614,8 +614,8 @@ Sandile,551,Ground,Dark,292,50,72,35,35,35,65,5,False
 Krokorok,552,Ground,Dark,351,60,82,45,45,45,74,5,False
 Krookodile,553,Ground,Dark,519,95,117,80,65,70,92,5,False
 Darumaka,554,Fire,,315,70,90,45,15,45,50,5,False
-DarmanitanStandard Mode,555,Fire,,480,105,140,55,30,55,95,5,False
-DarmanitanZen Mode,555,Fire,Psychic,540,105,30,105,140,105,55,5,False
+Darmanitan Standard Mode,555,Fire,,480,105,140,55,30,55,95,5,False
+Darmanitan Zen Mode,555,Fire,Psychic,540,105,30,105,140,105,55,5,False
 Maractus,556,Grass,,461,75,86,67,106,67,60,5,False
 Dwebble,557,Bug,Rock,325,50,65,85,35,35,55,5,False
 Crustle,558,Bug,Rock,475,70,95,125,65,75,45,5,False
