@@ -628,8 +628,8 @@ INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (552,'Krokorok','Ground','Dark',351,60,82,45,45,45,74,5,'False');
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (553,'Krookodile','Ground','Dark',519,95,117,80,65,70,92,5,'False');
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (554,'Darumaka','Fire',NULL,315,70,90,45,15,45,50,5,'False');
-INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (555,'DarmanitanStandard Mode','Fire',NULL,480,105,140,55,30,55,95,5,'False');
-INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (555,'DarmanitanZen Mode','Fire','Psychic',540,105,30,105,140,105,55,5,'False');
+INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (555,'Darmanitan Standard Mode','Fire',NULL,480,105,140,55,30,55,95,5,'False');
+INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (555,'Darmanitan Zen Mode','Fire','Psychic',540,105,30,105,140,105,55,5,'False');
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (556,'Maractus','Grass',NULL,461,75,86,67,106,67,60,5,'False');
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (557,'Dwebble','Bug','Rock',325,50,65,85,35,35,55,5,'False');
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (558,'Crustle','Bug','Rock',475,70,95,125,65,75,45,5,'False');
