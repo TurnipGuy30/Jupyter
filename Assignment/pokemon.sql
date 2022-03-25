@@ -1,17 +1,17 @@
 CREATE TABLE pokemon(
-  Number     INTEGER,
-  Name       TEXT PRIMARY KEY,
-  Type_1     TEXT,
-  Type_2     TEXT,
-  Total      INTEGER,
-  HP         INTEGER,
-  Attack     INTEGER,
-  Defense    INTEGER,
-  Sp_Atk     INTEGER,
-  Sp_Def     INTEGER,
-  Speed      INTEGER,
-  Generation INTEGER,
-  Legendary  TEXT
+	Number     INTEGER,
+	Name       TEXT PRIMARY KEY,
+	Type_1     TEXT,
+	Type_2     TEXT,
+	Total      INTEGER,
+	HP         INTEGER,
+	Attack     INTEGER,
+	Defense    INTEGER,
+	Sp_Atk     INTEGER,
+	Sp_Def     INTEGER,
+	Speed      INTEGER,
+	Generation INTEGER,
+	Legendary  TEXT
 );
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (1,'Bulbasaur','Grass','Poison',318,45,49,49,65,65,45,1,'False');
 INSERT INTO pokemon(Number,Name,Type_1,Type_2,Total,HP,Attack,Defense,Sp_Atk,Sp_Def,Speed,Generation,Legendary) VALUES (2,'Ivysaur','Grass','Poison',405,60,62,63,80,80,60,1,'False');
